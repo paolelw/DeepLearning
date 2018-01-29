@@ -1,2 +1,2 @@
-# DeepLearning
-DeepLearning Project
+# artificial intelligence
+AI Project
